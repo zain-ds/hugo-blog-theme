@@ -1,26 +1,25 @@
 ---
-title: Zain Sheikh
-role: ""
-superuser: true
-status:
-  icon: ☕️
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My academic interests include biostatistics, NLP, and computational statistics.
 social:
   - icon: envelope
     icon_pack: fas
     link: about/#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: https://twitter.com/TheZainSheikh
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/geocushen
-organizations:
-  - name: 腾讯
-    url: ""
+    link: https://instagram.com/zain.sheikh15
+organizations: []
+education:
+  courses:
+    - course: B.A. Statistics
+      institution: McGill University
+      year: 2023
+superuser: true
+status:
+  icon: ☕️
+title: Zain Sheikh
+role: ""
 ---
-
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am an aspiring Data Scientist majoring in Statistics at McGill University. Academic areas of application I'd like to explore include healthcare, epidemiology, and the social sciences. I'm also into health/fitness, music, and fashion.
